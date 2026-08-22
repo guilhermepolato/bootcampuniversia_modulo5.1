@@ -40,17 +40,17 @@ Abaixo, algumas prévias das páginas desenvolvidas *(certifique-se de que as im
 
 <p align="center">
   <b>Página Inicial (Sales)</b><br>
-  <img src="images/sales-report.png" alt="Sales Report" width="800">
+  <img src="images/salesreport.png" alt="Sales Report" width="800">
 </p>
 
 <p align="center">
   <b>Report de Lucro Detalhado</b><br>
-  <img src="images/report-lucro-detalhado.png" alt="Report de Lucro Detalhado" width="800">
+  <img src="images/reportdelucrodetalhado.png" alt="Report de Lucro Detalhado" width="800">
 </p>
 
 <p align="center">
   <b>Report de Vendas Detalhado</b><br>
-  <img src="images/report-vendas-detalhado.png" alt="Report de Vendas Detalhado" width="800">
+  <img src="images/reportvendasdetalhado.png" alt="Report de Vendas Detalhado" width="800">
 </p>
 
 ## 💻 Tecnologias Utilizadas
