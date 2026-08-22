@@ -36,21 +36,21 @@ O arquivo `.pbix` foi estruturado em 3 páginas principais para facilitar a aná
 
 ## 📸 Visualização do Relatório
 
-Abaixo, algumas prévias das páginas desenvolvidas *(certifique-se de que as imagens estão na pasta `/images` do seu repositório)*:
+Abaixo, algumas prévias das páginas desenvolvidas:
 
 <p align="center">
   <b>Página Inicial (Sales)</b><br>
-  <img src="images/salesreport.png" alt="Sales Report" width="800">
+  <img src="salesreport.png" alt="Sales Report" width="800">
 </p>
 
 <p align="center">
   <b>Report de Lucro Detalhado</b><br>
-  <img src="images/reportdelucrodetalhado.png" alt="Report de Lucro Detalhado" width="800">
+  <img src="reportdelucrodetalhado.png" alt="Report de Lucro Detalhado" width="800">
 </p>
 
 <p align="center">
   <b>Report de Vendas Detalhado</b><br>
-  <img src="images/reportvendasdetalhado.png" alt="Report de Vendas Detalhado" width="800">
+  <img src="reportvendasdetalhado.png" alt="Report de Vendas Detalhado" width="800">
 </p>
 
 ## 💻 Tecnologias Utilizadas
