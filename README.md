@@ -1,8 +1,8 @@
-<h1 align="center">📊 Sales Report – Desafio Power BI</h1>
+<h1 align="center">📊Projeto 5 – Dashboard Gerencial para Tomada de Decisões Com Power BI</h1>
 
 <p align="center">
-  <i>Relatório financeiro desenvolvido com foco em <b>User Experience (UX)</b> aplicado a dashboards de Business Intelligence (BI).</i><br>
-  Projeto prático do bootcamp <b>Formação Power BI</b> da <b>DIO</b>.
+  <i>Dashboard Gerencial desenvolvido com foco em <b>User Experience (UX)</b> aplicado a dashboards de Business Intelligence (BI).</i><br>
+  Projeto prático do **Bootcamp Universia – Primeiros Passos em Power BI**.
 </p>
 
 ---
@@ -66,6 +66,16 @@ Abaixo, algumas prévias das páginas desenvolvidas *(certifique-se de que as im
 3. Abra o arquivo no Power BI Desktop.
 4. Utilize o menu lateral interativo para navegar fluidamente entre as páginas do relatório.
 
+## 📚 Sobre o Bootcamp
+
+Este projeto faz parte do **Bootcamp Universia – Primeiros Passos em Power BI**, oferecido pela **DIO (Digital Innovation One)**, cujo objetivo é desenvolver fundamentos de Business Intelligence por meio de atividades práticas utilizando o Microsoft Power BI.
+
+---
+
 ## 👨‍💻 Autor
 
-Desenvolvido por **Gui** — como parte dos desafios do bootcamp de dados da **[DIO](https://www.dio.me/)**.
+**Guilherme Polato**
+
+Graduado em Análise e Desenvolvimento de Sistemas, com foco em Análise de Dados e Business Intelligence.
+
+---
